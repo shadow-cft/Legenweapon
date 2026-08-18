@@ -1,0 +1,2 @@
+# Legenweapon
+Senjata mematikan 
