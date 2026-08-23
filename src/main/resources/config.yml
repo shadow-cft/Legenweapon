@@ -1,0 +1,15 @@
+unlock:
+  dash: 3
+  phoenix: 5
+  chainbind: 7
+  ultimate: 10
+damage:
+  basic: 7.0
+  phoenix: 37.0
+  chainbind: 2.0
+  ultimate: 25.0
+cooldown:
+  dash: 15
+  phoenix: 32
+  chainbind: 20
+  ultimate: 60
