@@ -1,0 +1,15 @@
+name: LegendWeapon
+version: 1.0.0
+main: me.shadow.legendweapon.LegendWeapon
+api-version: '1.21'
+author: Shadow Craft
+description: Death Note legendary weapon with skills and kill streaks.
+commands:
+  legendweapon:
+    description: Gives the Death Note weapon.
+    usage: /legendweapon give
+    permission: legendweapon.admin
+permissions:
+  legendweapon.admin:
+    default: op
+    
